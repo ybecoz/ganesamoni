@@ -28,4 +28,6 @@
     <script src="js/masonry.pkgd.min.js"></script>
 <script src="js/jquery.flexslider-min.js"></script>
 <script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>
     

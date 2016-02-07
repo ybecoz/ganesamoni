@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <title>Ganesamoni Hospital | Home</title>
 <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
 <link href="css/style.css" type="text/css" rel="stylesheet" media="all">
@@ -46,3 +49,4 @@
   })();
 </script>
 <!--//end-smoth-scrolling-->
+</head>
