@@ -1,0 +1,41 @@
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+       img.facilities-img {
+    margin-top: 50px;
+}
+.carrer-form
+{
+  padding-top: 30px;
+  
+}
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        img.facilities-img {
+    margin-top: 20px;
+}
+.carrer-form
+{
+
+  width:100%;
+}
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }
